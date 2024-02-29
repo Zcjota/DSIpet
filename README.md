@@ -3,10 +3,10 @@
 - [Facebook](https://www.facebook.com/zcjota/)
 
 ##	Introducción
-Este sistema esta creado para la gestion de una veterinaria que brinda servicios de veterinario y diversos productos.
+Este sistema backend está diseñado específicamente para transformar la gestión de una clínica veterinaria, centralizando servicios y ventas de productos en una plataforma ágil y moderna.
 
 ##	Objetivos
-Dearrollar el Analisis, Modelado, Migraciones, Models, Seeder y la Api REst para la Veterinaria Ipet-Rzor del señor Mauricio Dominguez de la ciudad de Santa Cruz de la Sierra. 
+Crear un backend escalable y fácil de usar para la Veterinaria Ipet-Rzor que soporte eficientemente todas sus operaciones y procesos internos, utilizando Laravel para una implementación rápida y eficaz.
 
 ##	Marco Teórico
 ###	Laravel
@@ -32,7 +32,7 @@ composer create-project --prefer-dist laravel/laravel nombre-del-proyecto
 ##	Modelado o Sistematización
 
 ### Diagrama de clases
-![diagrama](https://flic.kr/p/2pANCz2)
+![diagrama]([https://flic.kr/p/2pANCz2](https://live.staticflickr.com/65535/53558757243_5308db8960_b.jpg))
 ### Diagrama entidad relacion.
 
 ### Migracion
