@@ -32,7 +32,7 @@ composer create-project --prefer-dist laravel/laravel nombre-del-proyecto
 ##	Modelado o Sistematización
 
 ### Diagrama de clases
-![diagrama]([https://flic.kr/p/2pANCz2](https://live.staticflickr.com/65535/53558757243_5308db8960_b.jpg))
+![diagrama](https://live.staticflickr.com/65535/53558757243_5308db8960_b.jpg)
 ### Diagrama entidad relacion.
 
 ### Migracion
